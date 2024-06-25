@@ -1,6 +1,6 @@
-# Business Blog
+# Blog
 
-Business Blog to prosta aplikacja blogowa napisana w PHP i SQLite. Umożliwia użytkownikom rejestrację, logowanie, tworzenie postów oraz komentowanie.
+Blog to prosta aplikacja blogowa napisana w PHP i SQLite. Umożliwia użytkownikom rejestrację, logowanie, tworzenie postów oraz komentowanie.
 
 ## Funkcje
 
